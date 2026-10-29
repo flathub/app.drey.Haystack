@@ -26,8 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/jwharm/Haystack.git",
-                    "tag": "1.2.0",
-                    "commit": "7b49d56f3820edf701e52563e8ebb65f61c759fd"
+                    "tag": "1.3.0",
+                    "commit": "860694fc7502538edadeb0037d9bb3e4a36935c6"
                 }
             ],
             "config-opts": [
